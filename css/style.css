@@ -1,0 +1,51 @@
+.sliderSettings{
+    height: 600px;
+}
+
+
+body {
+    padding-top: 50px;
+    font-family: 'Rokkitt', serif;
+}
+
+.aboutMe{
+    
+    background-color: #f2f2f2;
+}
+
+.brace{
+    border:none;
+    border-top:3px solid #343a40;
+    max-width: 250px;
+    margin:25px auto;
+}
+
+.iWhite{
+    color:#343a40;
+    position: relative;
+    top:-55px;
+    font-size:40px;
+    border: 10px solid white;
+    background-color: white;
+}
+
+.iGray{
+    color:#343a40;
+    position: relative;
+    top:-55px;
+    font-size:40px;
+    border: 10px solid #f2f2f2;
+    background-color: #f2f2f2;
+}
+
+.gallery{
+    background-color: #f2f2f2;
+}
+
+.figure:hover{
+    opacity: 0.8;
+}
+
+.btnSettings{
+    padding-top: 10px;
+}
